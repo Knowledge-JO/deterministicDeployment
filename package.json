@@ -1,0 +1,20 @@
+{
+  "name": "deterministic-deploy-factory",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@nomiclabs/hardhat-ethers": "^2.2.3",
+    "dotenv": "^16.4.5",
+    "ethers": "^5.0.0",
+    "hardhat": "^2.20.1"
+  },
+  "dependencies": {
+    "@alch/alchemy-web3": "^1.4.7"
+  }
+}
